@@ -1,0 +1,6 @@
+{
+  "name": "Plan Karo",
+  "description": "Plan Today, Achieve Tomorrow. Daily task management, smart calendar, habits, routines, and voice notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
